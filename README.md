@@ -1,0 +1,6 @@
+- sobre mim
+- 👋olá, meu nome é Gatani.
+- 👀 meu e-mail de contato é gatani.santos@escola.pr.gov.br.
+- 🌱 eu estou interessada em aprender a programar novas linguagens.
+- 💞️ e estou aprendendo a programar as linguagens JavaScript e Scratch.
+- 📫 gratidão
